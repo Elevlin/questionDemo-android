@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">学生问题提交系统</string>
+    <string name="serverurl">http://59.110.169.80:8088/api/</string>
+</resources>
